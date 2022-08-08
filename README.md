@@ -26,11 +26,11 @@ PS：請使用kRO_FullClient_20220721.zip的主程式
 
 - 簡單安裝法
 
-1.下載韓國版的 data.grf 及 rdata.grf 放入我提供的 Rathena-Client 資料內
+下載韓國版的 data.grf 及 rdata.grf 放入我提供的 Rathena-Client 資料內
 
 PS：注意此動作必須是韓國版的 data.grf 及 rdata.grf 否則地圖或NPC所站的地方會錯位
     導致無法正常遊戲
 
-2.點擊2021-11-17.exe可開始暢玩遊戲樂趣
+點擊2021-11-17.exe可開始暢玩遊戲樂趣
 
 
