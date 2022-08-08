@@ -14,7 +14,7 @@ PS：
 
 # 安裝方式
 
-------完整安裝法------
+- 完整安裝法
 
 1.下載RO韓國版  主程式：https://ro.industrial-illusions.net/files/
 
@@ -24,7 +24,7 @@ PS：請使用kRO_FullClient_20220721.zip的主程式
 
 3.點擊2021-11-17.exe可開始暢玩遊戲樂趣
 
-------簡單安裝法------
+- 簡單安裝法
 
 1.下載韓國版的 data.grf 及 rdata.grf 放入我提供的 Rathena-Client 資料架內
 
